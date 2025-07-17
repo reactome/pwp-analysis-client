@@ -6,7 +6,7 @@ import org.reactome.web.analysis.client.model.AnalysisResult;
 import org.reactome.web.analysis.client.model.FoundInteractors;
 
 /**
- * @author Antonio Fabregat <fabregat@ebi.ac.uk>
+ * @author Antonio Fabregat (fabregat@ebi.ac.uk)
  */
 public class GwtTestInteractorsProjection extends GWTTestCase {
 
